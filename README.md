@@ -1,5 +1,4 @@
 # Polly
-
 ## Description
 Polly is a Python library for calculate and solve lagrange interpolation polynomials.
 
